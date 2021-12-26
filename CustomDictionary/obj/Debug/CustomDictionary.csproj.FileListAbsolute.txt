@@ -1,0 +1,6 @@
+D:\C# Projects\CustomDictionary\CustomDictionary\bin\Debug\CustomDictionary.exe
+D:\C# Projects\CustomDictionary\CustomDictionary\bin\Debug\CustomDictionary.pdb
+D:\C# Projects\CustomDictionary\CustomDictionary\obj\Debug\CustomDictionary.csprojAssemblyReference.cache
+D:\C# Projects\CustomDictionary\CustomDictionary\obj\Debug\CustomDictionary.csproj.CoreCompileInputs.cache
+D:\C# Projects\CustomDictionary\CustomDictionary\obj\Debug\CustomDictionary.exe
+D:\C# Projects\CustomDictionary\CustomDictionary\obj\Debug\CustomDictionary.pdb
